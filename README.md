@@ -5,5 +5,5 @@ For now, you can go to the following link from scikit-learn website (great resso
 
 https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html
 
-Frther details on PCA can also be found on scikit-learn's website:
+Further details on PCA can also be found on scikit-learn's website:
 https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca
